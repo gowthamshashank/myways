@@ -31,5 +31,5 @@
 
    STEP:-1 Firstly Create Lambda and Add role With ECS FULL ACCESS and ADD code
 
-   Python:-
+   Python Link:-  https://github.com/gowthamshashank/myways/blob/master/lambda_handler.py
            
